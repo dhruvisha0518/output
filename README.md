@@ -37,6 +37,10 @@ If you find this project useful, consider supporting my work here:
 
 Your support helps keep this project free and open-source while avoiding costly subscriptions (~$150/month).  
 
+## ☕ Buy Me A Coffee
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-orange.png)](https://buymeacoffee.com/dpatelj88g)
+
 ---
 
 ## 🔗 Related Links
