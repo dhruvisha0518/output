@@ -30,16 +30,14 @@ This project builds on his idea and extends it with improved scanning logic and 
 
 ---
 
-## ☕ Support
+## ☕ Support ☕ Buy Me A Coffee
+
 
 If you find this project useful, consider supporting my work here:  
-👉 [**Buy Me a Coffee**](https://buymeacoffee.com/dpatelj88g)  
-
-Your support helps keep this project free and open-source while avoiding costly subscriptions (~$150/month).  
-
-## ☕ Buy Me A Coffee
 
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-orange.png)](https://buymeacoffee.com/dpatelj88g)
+
+Your support helps keep this project free and open-source while avoiding costly subscriptions (~$150/month).
 
 ---
 
